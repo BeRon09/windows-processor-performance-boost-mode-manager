@@ -41,7 +41,7 @@ Battery / DC	Efficient Enabled or Disabled
 
 
 How to Use
-Download PPBM_Manager_FIXED.bat.
+Download PPBM_manager.bat
 Right-click the file.
 Choose Run as administrator.
 Check your current PPBM setting.
