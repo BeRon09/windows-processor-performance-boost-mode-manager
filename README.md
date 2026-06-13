@@ -40,7 +40,8 @@ Plugged in / AC	Efficient Aggressive
 Battery / DC	Efficient Enabled or Disabled
 
 
-How to Use
+How to Use:
+
 Download PPBM_manager.bat
 Right-click the file.
 Choose Run as administrator.
@@ -73,9 +74,14 @@ Some systems may require administrator permission.
 If the setting does not apply, run the batch file as administrator.
 This does not overclock your CPU. It only changes an existing Windows power setting.
 Lower boost modes can reduce CPU temperature and fan noise, but may also reduce performance.
+
 Requirements
+
 Windows 10 or Windows 11
+
 powercfg, which is already included in Windows
-Disclaimer
+
+
+Disclaimer:
 
 Use this tool at your own risk. The script only uses Windows built-in power configuration commands, but you should still understand what each mode does before changing your settings.
